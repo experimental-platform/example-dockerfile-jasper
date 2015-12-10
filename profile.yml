@@ -4,7 +4,7 @@ last_name: Blum
 gmail_address: ''
 gmail_password: ''
 location: Hamburg
-phone_number: '01744771457'
+phone_number: ''
 prefers_email: true
 stt_engine: sphinx
 pocketsphinx:

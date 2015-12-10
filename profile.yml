@@ -1,9 +1,9 @@
 carrier: ''
 first_name: Christopher
-gmail_address: christopher.spellboy@googlemail.com
-gmail_password: ''
 last_name: Blum
-location: hamburg
+gmail_address: ''
+gmail_password: ''
+location: Hamburg
 phone_number: '01744771457'
 prefers_email: true
 stt_engine: sphinx

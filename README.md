@@ -10,7 +10,7 @@ alt="Jasper Video" width="240" height="180"></a>
 
 * A machine that runs [Experimental Platform](https://github.com/experimental-platform/platform-configure-script)
 * A USB microphone, we used [this](http://www.amazon.com/Adjustable-Microphone-Compatible-Chatting-Recording/dp/B00UZY2YQE/)
-* A speaker, we used [this](http://www.amazon.com/Logitech-S150-Speakers-Digital-Sound/dp/B000ZH98LU)
+* A USB speaker, we used [this](http://www.amazon.com/Logitech-S150-Speakers-Digital-Sound/dp/B000ZH98LU)
 
 ## Installation
 

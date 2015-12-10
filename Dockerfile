@@ -19,10 +19,9 @@ RUN echo 'export LD_LIBRARY_PATH="/usr/local/lib"' >> /root/.bash_profile
 RUN echo "source .bashrc" >> /root/.bash_profile
 RUN echo "export PATH=\$PATH:/usr/local/lib/" >> /root/.bash_profile
 
-RUN git clone https://github.com/jasperproject/jasper-client.git $JASPER_HOME
+RUN git clone https://github.com/experimental-platform/jasper-client.git $JASPER_HOME
 WORKDIR $JASPER_HOME
 
-RUN sed -i 's/argparse/#argparse/g' $JASPER_HOME/client/requirements.txt
 RUN pip install --upgrade setuptools
 RUN pip install -r client/requirements.txt
 

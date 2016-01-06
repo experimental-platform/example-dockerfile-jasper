@@ -1,6 +1,6 @@
 # Jasper for Experimental Platform
 
-Jasper is an open source platform for developing always-on, voice-controlled applications.
+<a href="http://jasperproject.github.io/" target="_blank">Jasper</a> is an open source platform for developing always-on, voice-controlled applications.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UzaqNF6NlBA
 " target="_blank"><img src="http://img.youtube.com/vi/UzaqNF6NlBA/0.jpg" 
